@@ -6,6 +6,17 @@
 
   <div  align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="200" height="200" src="https://github.com/user-attachments/assets/ea0cf9d0-3acc-464b-bff9-4d98e531c165" alt="mert-turkgil" /></a></div>
 
+<div align="center">
+ 
+ 🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Docker, Supabase, AWS**
+
+💬 Ask me about **Node.js, React, Firebase, .Net, C#, JS, HTML, Angular, Python... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/mert-turkgil/mert-turkgil/issues))**
+
+⚡ Fun fact **About Game of Thrones, Charles Dance(Tywin Lannister) really did skin a stag for his first scene.**
+
+ </div>
 
 <h3 align="center">Connect with me</h3>
 <p align="center">
