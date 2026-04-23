@@ -64,7 +64,7 @@
 
 <br>
 <div align=center>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mert-turkgil)](https://github.com/mert-turkgil/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=mert-turkgil&theme=tokyonight&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 </div>
 
 <br/><br/>
