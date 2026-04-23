@@ -39,7 +39,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,tailwind,git,npm,cs,dotnet,cloudflare,eclipse,kali,py" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql,github,angular,threejs,sass" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,mongodb,java,nextjs,mysql,github,angular,threejs,sass" /><br>
 </div>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
