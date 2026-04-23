@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=1000&lines=Hello+everyone+%F0%9F%AB%A1;I%E2%80%99m+Mert+Turkgil+%F0%9F%98%8F;A+software+developer+striving+to+improve+myself+%F0%9F%A5%B9)](https://git.io/typing-svg)
 
-<h3 align="center">A passionate fullstack developer from Turkey</h3>
+<div  align="center"><h3>A passionate fullstack developer from Turkey</h3></div>
  
  <img src="https://komarev.com/ghpvc/?username=mert-turkgil&label=Profile%20views&color=0e75b6&style=flat" alt="mert-turkgil" />
 
