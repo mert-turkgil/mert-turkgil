@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working on **E Commerce Website**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Docker, Python, AWS**
 
 💬 Ask me about **Node.js, React, Firebase, .Net, C#, JS, HTML, Angular, Python... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/mert-turkgil/mert-turkgil/issues))**
 
