@@ -2,7 +2,7 @@
 
 <div  align="center"><h3>A passionate fullstack developer from Turkey</h3></div>
  
- <img src="https://komarev.com/ghpvc/?username=mert-turkgil&label=Profile%20views&color=0e75b6&style=flat" alt="mert-turkgil" />
+ <div  align="center"><img src="https://komarev.com/ghpvc/?username=mert-turkgil&label=Profile%20views&color=0e75b6&style=flat" alt="mert-turkgil" /></div>
 
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="200" height="200" src="https://github.com/user-attachments/assets/ea0cf9d0-3acc-464b-bff9-4d98e531c165" alt="mert-turkgil" /></a>
 
