@@ -64,7 +64,7 @@
 
 <br>
 <div align=center>
-[![GitHub Streak](https://streak-stats.demolab.com?user=mert-turkgil&theme=tokyonight&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mert-turkgil&theme=tokyonight&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
