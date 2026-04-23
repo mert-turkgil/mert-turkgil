@@ -2,10 +2,8 @@
 
 <div  align="center"><h3>A passionate fullstack developer from Turkey</h3></div>
  
- <div  align="center"><img width="1616" height="1616" alt="image" src="https://github.com/user-attachments/assets/109c1f06-17cb-4bb4-944e-65b417a64523" />
+ <div  align="center"><img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/109c1f06-17cb-4bb4-944e-65b417a64523" />
 </div>
-
-  <div  align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img width="200" height="200" src="https://github.com/user-attachments/assets/ea0cf9d0-3acc-464b-bff9-4d98e531c165" alt="mert-turkgil" /></a></div>
 
 <div align="center">
  
