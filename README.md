@@ -41,18 +41,10 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,tailwind,git,npm,cs,dotnet,cloudflare,eclipse,kali,py" />
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,firebase,mongodb,c,java,nextjs,mysql,github,angular,threejs,sass" /><br>
 </div>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
