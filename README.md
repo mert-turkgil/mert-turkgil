@@ -2,7 +2,8 @@
 
 <div  align="center"><h3>A passionate fullstack developer from Turkey</h3></div>
  
- <div  align="center"><img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/109c1f06-17cb-4bb4-944e-65b417a64523" />
+ <div  align="center">
+  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/83e01b05-b055-42a8-b484-570c27669e3e" />
 </div>
 
 <div align="center">
