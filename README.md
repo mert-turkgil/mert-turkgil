@@ -64,7 +64,7 @@
 
 <br>
 <div align=center>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mert-turkgil&theme=tokyonight&short_numbers=true&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=mert-turkgil&theme=tokyonight&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 <br/><br/>
@@ -73,8 +73,5 @@
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
 
 <br/>
