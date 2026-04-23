@@ -61,3 +61,20 @@
 
   <br/><br/><br/>
 </div>
+
+<br>
+<div align=center>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mert-turkgil)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+<br/><br/>
+
+<hr/>
+
+<br/>
+
+<div align="center">
+<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+</div>
+
+<br/>
